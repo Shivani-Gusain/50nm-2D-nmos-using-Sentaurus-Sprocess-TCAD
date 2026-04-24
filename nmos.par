@@ -1,0 +1,23 @@
+Material= "Silicon" {
+Epsilon {
+epsilon = 11.7
+}
+}
+
+Material= "Oxide" {
+Epsilon {
+epsilon= 3.9
+}
+}
+
+Material= "Nitride" {
+Epsilon {
+epsilon =7.5
+}
+}
+
+Material= "PolySilicon" {
+Epsilon {
+epsilon= 11.7
+}
+}
